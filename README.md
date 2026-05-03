@@ -132,10 +132,10 @@ To build an interactive dashboard that:
 https://github.com/himanshigoel06/Airbnb-Pricing-Intelligence-Dashboard/blob/main/Overview%20of%20Airbnb.png
 
 ### ⭐ Ratings Dashboard
-https://github.com/himanshigoel06/Airbnb-Pricing-Intelligence-Dashboard/blob/main/Rating%20of%20Airbnb.png)
+https://github.com/himanshigoel06/Airbnb-Pricing-Intelligence-Dashboard/blob/main/Rating%20of%20Airbnb.png
 
 ### 📝 Reviews Dashboard
-[![Reviews](./images/reviews.png)](https://github.com/himanshigoel06/Airbnb-Pricing-Intelligence-Dashboard/blob/main/Reviews%20of%20Airbnb.png)
+https://github.com/himanshigoel06/Airbnb-Pricing-Intelligence-Dashboard/blob/main/Reviews%20of%20Airbnb.png
 
 ---
 
